@@ -1,1 +1,1 @@
-# docs.pahntombot.cf
+# docs.phantombot.cf
