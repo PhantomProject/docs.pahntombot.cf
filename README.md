@@ -1,1 +1,1 @@
-# docs.phantombot.cf
+# Please delete.
